@@ -1,16 +1,20 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/saulobraine/saulobraine/blob/master/banner.png">
 
-<!--
-**saulobraine/saulobraine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Saulo Braine
 
-Here are some ideas to get you started:
+### Bem vindo(a) 👋
+Formado em 2015 pela OPET em Produção Multimídia, minha trilha no mundo da programação iniciou-se no PHP, logo após entrei universo maravilhoso do WordPress e atualmente é o principal recurso/tecnologia que utilizo para sites institucionais e lojas virtuais :computer: <br/>
+Estou criando grande admiração pelo cenário front-end e mobile utilizando ReactJS e React-Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :cloud:  &nbsp; Atualmente estou prestando consultoria de desenvolvimento para a [**Nabile IT**](https://nabile.dev)
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha atual stack: WordPress, Elementor, Woocommerce, PHP, CSS3, Design Responsivo, noções de UX e UI.
+ <br/> :star: &nbsp; O que estou estudando? ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto novas tecnologias, games Horizon Zero Dawn :heart_eyes:, alguns mobile como Archero e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin](https://img.shields.io/badge/-Saulo&nbsp;Braine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saulobraine/)](https://www.linkedin.com/in/saulobraine/) 
+&nbsp;
+[![Email](https://img.shields.io/badge/-saulo@braine.dev-c14438?style=flat-square&logo=minutemailer&logoColor=white&link=mailto:saulo@braine.dev)](mailto:saulo@braine.dev)
+&nbsp;
+[![Site](https://img.shields.io/badge/-braine.dev-118EE5?style=flat-square&logo=wordpress&logoColor=white&link=https://braine.dev)](https://braine.dev)
+
