@@ -7,7 +7,6 @@ Formado em 2015 pela OPET em Produção Multimídia, minha trilha no mundo da pr
 Estou criando grande admiração pelo cenário front-end e mobile utilizando ReactJS e React-Native.
 
  :cloud:  &nbsp; Atualmente estou prestando consultoria de desenvolvimento para a [**Nabile IT**](https://nabile.dev)
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha atual stack: WordPress, Elementor, Woocommerce, PHP, CSS3, Design Responsivo, noções de UX e UI.
  <br/> :star: &nbsp; O que estou estudando? ReactJS, Node.js, React Native & Typescript
