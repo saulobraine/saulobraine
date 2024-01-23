@@ -2,13 +2,12 @@
 
 ## Saulo Braine
 
-### Bem vindo(a) 👋
+### Bem vindx 👋
 Formado em 2015 pela OPET em Produção Multimídia, minha trilha no mundo da programação iniciou-se no PHP, logo após entrei universo maravilhoso do WordPress e atualmente é o principal recurso/tecnologia que utilizo para sites institucionais e lojas virtuais :computer: <br/>
-Estou criando grande admiração pelo cenário front-end e mobile utilizando ReactJS e React-Native.
 
- :cloud:  &nbsp; Atualmente estou prestando consultoria de desenvolvimento para a [**Be220**](https://be220.com)
+ :cloud:  &nbsp; Atualmente estou prestando serviço como freelancer, veja meu portfólio em [**Braine**](https://braine.dev)
  <br/> :computer: &nbsp; Minha atual stack: WordPress, Elementor, Woocommerce, PHP, CSS3, Design Responsivo, noções de UX e UI.
- <br/> :star: &nbsp; O que estou estudando? ReactJS, Node.js, React Native & Typescript
+ <br/> :star: &nbsp; O que estou estudando? ReactJS, Node.js & Typescript.
  <br/> 💬  &nbsp; Sobre mim: Curto novas tecnologias, games Horizon Zero Dawn :heart_eyes:, alguns mobile como Archero e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin](https://img.shields.io/badge/-Saulo&nbsp;Braine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saulobraine/)](https://www.linkedin.com/in/saulobraine/) 
 &nbsp;
