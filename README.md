@@ -1,17 +1,86 @@
-<img width="auto" src="https://github.com/saulobraine/saulobraine/blob/master/banner.png">
+[![Signature](signature.png)](https://braine.dev)
 
-## Saulo Braine
+Contact/WhatsApp: [+55 (41) 9 9927.0046](https://wa.me/5541999270046)  
+Single, Brazilian, 05/24/1996  
+[saulo@braine.dev](mailto:saulo@braine.dev)  
+[https://linkedin.com.br/in/saulobraine](https://linkedin.com.br/in/saulobraine)  
+[https://braine.dev](https://braine.dev)
 
-### Bem vindx 👋
-Formado em 2015 pela OPET em Produção Multimídia, minha trilha no mundo da programação iniciou-se no PHP, logo após entrei universo maravilhoso do WordPress e atualmente é o principal recurso/tecnologia que utilizo para sites institucionais e lojas virtuais :computer: <br/>
+![My Skills](https://skillicons.dev/icons?i=wordpress,php,tailwind,react,next,js,html,css)
 
- :cloud:  &nbsp; Atualmente estou prestando serviço como freelancer, veja meu portfólio em [**Braine**](https://braine.dev)
- <br/> :computer: &nbsp; Minha atual stack: WordPress, Elementor, Woocommerce, PHP, CSS3, Design Responsivo, noções de UX e UI.
- <br/> :star: &nbsp; O que estou estudando? ReactJS, Node.js & Typescript.
- <br/> 💬  &nbsp; Sobre mim: Curto novas tecnologias, games Horizon Zero Dawn :heart_eyes:, alguns mobile como Archero e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin](https://img.shields.io/badge/-Saulo&nbsp;Braine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saulobraine/)](https://www.linkedin.com/in/saulobraine/) 
-&nbsp;
-[![Email](https://img.shields.io/badge/-saulo@braine.dev-c14438?style=flat-square&logo=minutemailer&logoColor=white&link=mailto:saulo@braine.dev)](mailto:saulo@braine.dev)
-&nbsp;
-[![Site](https://img.shields.io/badge/-braine.dev-118EE5?style=flat-square&logo=wordpress&logoColor=white&link=https://braine.dev)](https://braine.dev)
+Version in [![Portuguese](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Portuguese")](README-ptbr.md)
 
+### Objective
+
+Front-end Development.
+
+### Summary of Qualifications
+
+- Professional with 7+ years of experience in WordPress/Elementor, primarily focused on institutional websites.
+- Extensive experience in PHP, responsive design, and UX.
+- Experienced in projects for the development and improvement of systems.
+- Three years of experience in ReactJS.
+- Advanced knowledge of Elementor builder.
+
+### Education
+
+- Bachelor's Degree in Multimedia Production
+- Additional Course: Webmaster Training – UpInside.
+- Additional Course: Go Stack ReactJS - Rocketseat
+
+### Professional Experience
+
+**Braine**  
+FullStack/WordPress/ReactJS Freelancer Developer.  
+September 2017 – Present.
+
+- Analyzed and developed websites and systems.
+- Developed e-commerce platforms using WooCommerce.
+- Developed WordPress websites.
+- Provided support and maintenance for websites.
+
+**Apiki**  
+ReactJS/WordPress Developer.  
+May 2022 – September 2022 (freelancer).
+
+- Developed WordPress sites using FSE technology (with ReactJS).
+- Provided support and maintenance for websites.
+
+**Be220**  
+FullStack/WordPress Developer.  
+September 2020 – 2022.
+
+- Analyzed and developed websites and systems.
+- Developed e-commerce platforms using WooCommerce.
+- Developed WordPress websites.
+- Provided support and maintenance for websites.
+
+**Nabile IT**  
+FullStack/WordPress Developer.  
+February 2017 – 2020.
+
+- Analyzed and developed websites and systems.
+- Developed e-commerce platforms using WooCommerce.
+- Developed WordPress websites.
+- Provided support and maintenance for websites.
+
+**BoaProcura.com**  
+FullStack Developer.  
+March 2015 – December 2016.
+
+- Analyzed and developed websites and systems.
+- Developed e-commerce platforms using WooCommerce and OpenCart.
+- Developed WordPress websites.
+- Provided support and maintenance for proprietary systems.
+- Provided support and maintenance for websites.
+
+**State Secretariat for Labor, Employment, and Solidarity Economy**  
+IT Support.  
+May 2014 – March 2015.
+
+- Provided support and maintenance for desktops at Labor Agencies across the state.
+- Managed inventory and supplies.
+
+### Extracurricular Activities
+
+- **UNIPACC** – Developed, maintained, and hosted a website for an NGO that supports children and adults with cancer.
