@@ -20,6 +20,7 @@ Desenvolvimento Front-end.
 - Ampla experiência em PHP, design responsivo e UX.
 - Experiência em projetos para desenvolvimento e melhoria de sistemas.
 - Três anos de experiência em ReactJS.
+- Mais de 36 projetos e contando.
 - Conhecimento avançado no construtor Elementor.
 
 ### Formação Acadêmica
